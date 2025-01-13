@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
 </head>
-<body align="center">
-    <h1>Welcome to my repository</h1>
-    <p>Call me Zizel.</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stat."/>
+<body>
+    <h1 align="center">Welcome to my repository</h1>
+    <p align="center">Call me Zizel.</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stat." align="center"/>
 </body>
 </html>
