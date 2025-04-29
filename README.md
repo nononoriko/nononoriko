@@ -14,7 +14,7 @@
             My version-ing scheme: x.y.z. <br/>
             With: <br/> 
             x: Major version with new features/changes to how the program works and probably bug fixes.<br/>
-            y: Bug fixes/code changes without affecting how the program work.<br/>
+            y: Bug fixes/code changes without without significant change to how the program works.<br/>
             z: I sometimes fuck up the readme so this will increase by 1 whenever that happens.</strong></p>
         <img src="https://github-readme-stats.vercel.app/api?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stat."/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="My github stat."/>
