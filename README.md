@@ -12,7 +12,7 @@
         <p>
             <strong>
                 I mostly work on Python but I also learn other languages because why not. <br/>
-                Call me Zizel (or Lafis, if you will). (The rep in my name stands for repository, not replica, should've picked a better name)<br/>
+                Call me Zizel (or Claire, if you will). (The rep in my name stands for repository, not replica, should've picked a better name)<br/>
                 My version-ing scheme: x.y.z. <br/>
                 With: <br/> 
                 x: Major version with new features/changes to how the program works and probably bug fixes.<br/>
