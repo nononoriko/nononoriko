@@ -8,6 +8,3 @@ Call me Zizel, or Claire, or Noriko.
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nononoriko&layout=compact&theme=transparent)
-
-## Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=nononoriko&color=blue)  
