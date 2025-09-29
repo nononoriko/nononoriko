@@ -1,5 +1,5 @@
 # About me
-Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Phan Thiet University). Currently, I'm aiming to become a game developer, although I'm taking web development as a detour for now. I work mostly in Python, although I also know C++, C#, Java(script), GDScript.
+Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Phan Thiet University). Currently, I'm aiming to become a game developer, although I'm taking web development as a detour for now. I work mostly in Python, although I also know C++, C#, Java(script), and GDScript.
 
 # Projects
 [Julius Cipher](https://github.com/nononoriko/julius-cipher-python.edition). A command-line interface program use to encipher/decipher text to/from Ceasar Cipher and Vigenère Cipher.  
