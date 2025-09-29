@@ -20,8 +20,8 @@
                 z: I sometimes fuck up the readme so this will increase by 1 whenever that happens.
             </strong>
         </p>
-        <img src="https://github-readme-stats.vercel.app/api?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stat."/> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwungu01-rep&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="My github stat."/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nononoriko&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="My github stat."/> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nononoriko&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="My github stat."/>
     </div>
 </body>
 </html>
