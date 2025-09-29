@@ -8,4 +8,4 @@ Call me Zizel, or Claire, or Noriko.
 ![GitHub Streak](https://streak-stats.demolab.com?user=nononoriko&theme=transparent)
 
 # Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nononoriko&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nononoriko&theme=transparent)
