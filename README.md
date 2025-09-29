@@ -1,4 +1,4 @@
-Call me Zizel, or Claire, or Noriko.
+# Call me Zizel, or Claire, or Noriko.
 
 ## GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nononoriko&show_icons=true&theme=transparent)
