@@ -4,10 +4,10 @@ Call me Zizel, or Claire, or Noriko.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nononoriko&show_icons=true&theme=transparent)
 
 ## Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=nononoriko&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nononoriko&theme=transparent)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nononoriko&layout=compact&theme=transparent)
 
 ## Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)  
+![Profile Views](https://komarev.com/ghpvc/?username=nononoriko&color=blue)  
