@@ -3,7 +3,7 @@ Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Ph
 
 # Projects
 [Julius Cipher](https://github.com/nononoriko/julius-cipher-python.edition). A command-line interface program use to encipher/decipher text to/from Ceasar Cipher and Vigenère Cipher.  
-[Closure's Message Box](https://github.com/nononoriko/closures-message-box). A Python script that fetches tweets from your favourite ~~Twitter~~ X account.  
+[Closure's Message Box](https://github.com/nononoriko/closures-message-box). A Python script that fetches tweets from your favourite ~~Twitter~~ X account. Empowering Parasocial Relationship<sup>TM</sup>.  
 [Claire Organizer](https://github.com/nononoriko/claire_organizer-python.edition). A command-line interface program use to sort files into different categories.  
 And [many more](https://github.com/nononoriko?tab=repositories)!
 
