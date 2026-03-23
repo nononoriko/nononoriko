@@ -8,9 +8,9 @@ Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Ph
 And [many more](https://github.com/nononoriko?tab=repositories)!
 
 # GitHub Stats  
-![Your GitHub stats](https://noriko-stat.vercel.app/api?username=nononoriko&show_icons=true&theme=transparent&color=white&hide_border=true)
+![Your GitHub stats](https://noriko-stat.vercel.app/api?username=chara-dreemurr-67&show_icons=true&theme=transparent&color=white&hide_border=true)
 
 # Top Languages
-![Top Languages](https://noriko-stat.vercel.app/api/top-langs/?username=nononoriko&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://noriko-stat.vercel.app/api/top-langs/?username=chara-dreemurr-67&layout=compact&theme=transparent&hide_border=true)
 
 <!--I miss my family.-->
